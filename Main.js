@@ -8,6 +8,7 @@ for (let i = 0; 1 < 5; 1++){
 
 function saudacaoPessoal(nome){
     console.log("Olá ", nome, "!")
+    console.log("Bem-vinda ao nosso sistema")
 }
 
 saudacaoPessoal("Avelina")
