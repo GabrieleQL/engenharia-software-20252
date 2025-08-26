@@ -11,4 +11,8 @@ function saudacaoPessoal(nome){
     console.log("Bem-vinda ao nosso querido sistema")
 }
 
+function abc(letra){
+    console.log("A letra é: ", letra)
+}
 saudacaoPessoal("Avelina")
+abc(k)
