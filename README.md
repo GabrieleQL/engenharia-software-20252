@@ -1,2 +1,2 @@
 Projeto Demonstração
-Esse projeto visa demonstrar o funcionamento do Git.
+Esse projeto visa demonstrar o funcionamento do Git e GitHub
